@@ -1,0 +1,11 @@
+# hello
+<html>
+    <head>
+        <title>привіт</title>
+    </head>
+    <body>
+      <div>Привіт!</div>
+      <div>Мене звати Андрій</div>
+    </body>
+    <script src="script.js"></script>
+</html>
